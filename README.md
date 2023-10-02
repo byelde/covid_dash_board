@@ -3,7 +3,7 @@
 ---
 ## OBJETIVO:
 Esse projeto busca mostrar dados da pandemia da COVID-19 no Brasil de forma simples e intuitiva.
-Apartir desse dashboard, você será capaz de avaliar as dados a nível nacional e estadual sobre número de casos e mortes devidas ao vírus, além de poder checar os dados de datas específicas.
+A partir desse dashboard, você será capaz de avaliar as dados a nível nacional e estadual sobre número de casos e mortes devidas ao vírus, além de poder checar os dados de datas específicas.
 
 ---
 ## DOS PRECEDENTES:
