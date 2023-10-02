@@ -7,7 +7,7 @@ A partir desse dashboard, você será capaz de avaliar as dados a nível naciona
 
 ---
 ## DOS PRECEDENTES:
-De início, é preciso ressaltar que este não é um projeto 100% autoral. Ele surge do interesse da plataforma de cursos Asimov Academy de fomentar o mercado de análise de dados a parti de um projeto desafiador. Meu interesse pela área e a complexidade o projeto me levaram a aceitar o desafio e torná-lo o projeto a ser apresentado na faculdade. Todos os créditos de autoria à Asimov Academy. 
+De início, é preciso ressaltar que este não se trata de um projeto 100% autoral. Ele surge do interesse da plataforma de cursos Asimov Academy de fomentar o mercado de análise de dados a partir de um projeto desafiador. Meu interesse pela área e a complexidade o projeto me levaram a aceitar o desafio e torná-lo o projeto a ser apresentado na faculdade. Todos os créditos de autoria à Asimov Academy. 
 
 ---
 ## TECNOLOGIAS UTILIZADAS:
