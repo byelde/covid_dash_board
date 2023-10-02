@@ -44,7 +44,7 @@ fig = px.choropleth_mapbox(df_states_,
                            opacity=0.4,
                            center={'lat':-12.827619, 'lon':-50.487157},
                            hover_data={'estado':True, 'casosNovos':True, 'casosAcumulado':True, 'obitosNovos':True, 'obitosAcumulado':True},
-                           zoom=4
+                           zoom=3
                            )
 
 fig.update_layout(
@@ -135,7 +135,8 @@ app.layout = dbc.Container(
                 dcc.Dropdown(id='location_dropdowm',
                             options=[{'label': j, 'value':i} for i, j in select_column.items()],
                             value='casosNovos',
-                            style={'margin-top': '10px'}
+                            style={'margin-top': '10px'},
+                            
                             ),
                 dcc.Graph(id='scatter-chart', figure=fig2),
             ])   
